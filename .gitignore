@@ -1,0 +1,15 @@
+# Local metadata
+**/.DS_Store
+
+# Local secrets
+.env
+.env.*
+*.pem
+*.pfx
+*.p12
+*.key
+*.ppk
+id_rsa
+id_rsa.*
+id_ed25519
+id_ed25519.*
