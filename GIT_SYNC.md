@@ -1,14 +1,14 @@
 # Git Sync
 
-- Project: malifacent
+- Project: malevolence
 - GitHub repo: https://github.com/pixelpupinc/maleficent-
 - Clone URL: https://github.com/pixelpupinc/maleficent-.git
 - Owner: pixelpupinc
 - Default branch: main
-- Local path: /Users/lolliking/U/malifacent
-- Suggested Windows path: C:\U\malifacent
+- Local path: /Users/lolliking/U/malevolence
+- Suggested Windows path: C:\U\malevolence
 - Git author: LolliKing <pixelpupinc@gmail.com>
-- Initial setup: 2026-06-07
+- Initial setup: 2026-06-09
 - LFS: yes
 
 Before work:

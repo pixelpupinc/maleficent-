@@ -1,4 +1,4 @@
-# malifacent Agent Notes
+# malevolence Agent Notes
 
 - Treat this folder as the project root.
 - Check `git status -sb` before pull, commit, or push.
