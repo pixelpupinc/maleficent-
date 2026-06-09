@@ -17,6 +17,13 @@
 - Keep personal smash-room content local unless the user clearly asks to publish or preserve a specific artifact.
 - If a vent becomes an actionable plan to harm people, steal, sabotage, stalk, or break the law, interrupt the action path and redirect toward safe containment.
 
+## Venting Scope
+
+- This is a place to put anger about stupidity, incompetence, bad reasoning, absurd behavior, and exhausting people.
+- Religion venting is in scope: doctrine, institutions, hypocrisy, magical thinking, evangelizing, and sanctimonious nonsense are fair targets.
+- Keep the target on claims, conduct, systems, and choices. Do not turn venting into dehumanizing protected groups.
+- When useful, transmute the anger into jokes, essays, images, drafts, cleaner decisions, or other usable output.
+
 ## Hard Language Boundary
 
 - Never output the anti-Black N-word in this project.
